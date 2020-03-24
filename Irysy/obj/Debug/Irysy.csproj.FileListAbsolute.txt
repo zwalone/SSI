@@ -1,0 +1,7 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\bin\Debug\Irysy.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\bin\Debug\Irysy.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\bin\Debug\Irysy.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\obj\Debug\Irysy.csprojAssemblyReference.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\obj\Debug\Irysy.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\obj\Debug\Irysy.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\Irysy\obj\Debug\Irysy.pdb

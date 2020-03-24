@@ -1,0 +1,7 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\bin\Debug\filterZdjecia.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\bin\Debug\filterZdjecia.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\bin\Debug\filterZdjecia.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\obj\Debug\filterZdjecia.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\obj\Debug\filterZdjecia.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\obj\Debug\filterZdjecia.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\filterZdjecia\obj\Debug\filterZdjecia.csprojAssemblyReference.cache

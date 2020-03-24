@@ -1,0 +1,7 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\bin\Debug\WyszukiwaniePunktowKluczowych.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\bin\Debug\WyszukiwaniePunktowKluczowych.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\bin\Debug\WyszukiwaniePunktowKluczowych.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\obj\Debug\WyszukiwaniePunktowKluczowych.csprojAssemblyReference.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\obj\Debug\WyszukiwaniePunktowKluczowych.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\obj\Debug\WyszukiwaniePunktowKluczowych.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\WyszukiwaniePunktowKluczowych\obj\Debug\WyszukiwaniePunktowKluczowych.pdb
