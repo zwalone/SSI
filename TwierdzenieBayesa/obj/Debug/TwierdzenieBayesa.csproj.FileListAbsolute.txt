@@ -1,0 +1,7 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\bin\Debug\TwierdzenieBayesa.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\bin\Debug\TwierdzenieBayesa.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\bin\Debug\TwierdzenieBayesa.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\obj\Debug\TwierdzenieBayesa.csprojAssemblyReference.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\obj\Debug\TwierdzenieBayesa.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\obj\Debug\TwierdzenieBayesa.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\TwierdzenieBayesa\obj\Debug\TwierdzenieBayesa.pdb

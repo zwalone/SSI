@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbioryMiekkie", "ZbioryMiek
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WyszukiwaniePunktowKluczowych", "WyszukiwaniePunktowKluczowych\WyszukiwaniePunktowKluczowych.csproj", "{AB6B14CE-7492-4D05-BAC1-DE2D1FDDD1CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwierdzenieBayesa", "TwierdzenieBayesa\TwierdzenieBayesa.csproj", "{529F330B-E530-4852-9B49-6725DA5AE25B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AB6B14CE-7492-4D05-BAC1-DE2D1FDDD1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB6B14CE-7492-4D05-BAC1-DE2D1FDDD1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB6B14CE-7492-4D05-BAC1-DE2D1FDDD1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529F330B-E530-4852-9B49-6725DA5AE25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529F330B-E530-4852-9B49-6725DA5AE25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529F330B-E530-4852-9B49-6725DA5AE25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529F330B-E530-4852-9B49-6725DA5AE25B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
