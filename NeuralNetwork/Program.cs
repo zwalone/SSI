@@ -85,8 +85,19 @@ namespace NeuralNetwork
             Network network = new Network(4, 2, 4, 3);
             network.PushExpectedValue(expectedValue);
 
-            network.Train(trainData, 0.3);
+            network.Train(trainData, 0.15);
 
+            //What is Pokemon !?
+            double[] whatFlower = { 5.9, 3.0, 5.1, 1.8 };
+            network.PushInputValues(whatFlower);
+
+            List<double> output = network.GetOutputs();
+            int index = output.IndexOf(output.Max());
+
+            if (index == 0) Console.Write("Iris-setosa");
+            else if (index == 1) Console.Write("Iris-versicolor");
+            else if (index == 2) Console.Write("Iris-virginica");
+         
 
             Console.ReadKey();
         }

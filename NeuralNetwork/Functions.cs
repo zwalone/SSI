@@ -8,14 +8,14 @@ namespace NeuralNetwork
 {
     static class Functions
     {
-        public static double SumInput(List<Synapse> synapses , double err = 0)
+        public static double SumInput(List<Synapse> synapses)
         {
             double sum = 0;
             foreach (var syn in synapses)
             {
                 sum += syn.GetOutput();
             }
-            return (sum +err);
+            return sum;
         }
 
         public static double SigmoidFunction(double input)
@@ -37,11 +37,5 @@ namespace NeuralNetwork
             }
             return err;
         }
-
-        public static double BipolarLinearFunction(double input) // funkcja aktywacji: liniowa bipolarna
-            => (1 - Math.Pow(Math.E, -0.5 * input)) / (1 + Math.Pow(Math.E, -0.5 * input));
-
-        public static double BipolarDifferential(double input) // pochodna funkcji aktywacji: liniowej bipolarnej
-            => (2 * 0.5 * Math.Pow(Math.E, -0.5 * input)) / (Math.Pow(1 + Math.Pow(Math.E, -0.5 * input), 2));
     }
 }

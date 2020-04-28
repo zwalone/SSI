@@ -24,7 +24,6 @@ namespace NeuralNetwork
             }
         }
 
-        //Create Connections with next Layers
         public void ConnectLayersWithOtherLayers(Layer other)
         {
             foreach (var thisNeuron in neurons)

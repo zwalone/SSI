@@ -11,9 +11,9 @@ namespace NeuralNetwork
         
         private Neuron _fromNeuron;
         private Neuron _toNeuron;
-        public Neuron From { get { return _fromNeuron; } }
-        public Neuron To { get { return _toNeuron; } }
-
+        public Neuron From { get { return _fromNeuron; }  }
+        public Neuron To { get { return _toNeuron; }  }
+        static Random random = new Random();
 
         public double Weight { get; set; }
         public double PrevWeight { get; set; }
@@ -25,21 +25,19 @@ namespace NeuralNetwork
             _fromNeuron = fromNeuron;
             _toNeuron = toNeuron;
 
-            //????? - 0.5 ?????
-            Random random = new Random();
-            Weight = random.NextDouble() - 0.5;
+            Weight = random.NextDouble();
             PrevWeight = 0;
         }
 
-        //public Synapse(Neuron fromNeuron, Neuron toNeuron, double weight)
-        //{
-        //    _fromNeuron = fromNeuron;
-        //    _toNeuron = toNeuron;
+        public Synapse(Neuron fromNeuron, Neuron toNeuron, double weight)
+        {
+            _fromNeuron = fromNeuron;
+            _toNeuron = toNeuron;
 
-        //    Weight = weight;
-        //    PrevWeight = 0;
-        
-        //}
+            Weight = weight;
+            PrevWeight = 0;
+
+        }
 
         public Synapse(Neuron toNeuron, double output)
         {

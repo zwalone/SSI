@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NeuralNetwork
 {
-    //func
+
     class Neuron
     {
         public List<Synapse> Inputs { get; set; }
@@ -36,7 +36,7 @@ namespace NeuralNetwork
         public void Calculate()
         {
             InputVal = Functions.SumInput(Inputs);
-            OutputVal = Functions.BipolarLinearFunction(InputVal);
+            OutputVal = Functions.SigmoidFunction(InputVal);
         }
 
         public void PushValueOnInput(double input)
