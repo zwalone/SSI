@@ -24,9 +24,9 @@ namespace FuzzyLogic
         public void FuzzyLogic(double[][] data)
         {
             datalen = data.Length;
-            rules.Add(new FuzzyRule(0.0, 0.1, 0.2, 0.3));
-            rules.Add(new FuzzyRule(0.3, 0.2, 0.8, 0.8));
-            rules.Add(new FuzzyRule(0.9, 0.4, 1, 1));
+            rules.Add(new FuzzyRule(0.1, 0.1, 1, 1));
+            rules.Add(new FuzzyRule(0.3, 0.3, 1, 1));
+            rules.Add(new FuzzyRule(0.6, 0.6, 1, 1));
 
             DataToRule(data);
             Calculate();
@@ -70,8 +70,8 @@ namespace FuzzyLogic
         
         string Judge(double a)
         {
-            if (a > 2) return "3. Virginica";
-            else if (a > 1) return "2. Versicolor";
+            if (a > 3) return "3. Virginica";
+            else if (a > 2) return "2. Versicolor";
             else return "1. Setosa";
         }
     }

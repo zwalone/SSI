@@ -19,7 +19,7 @@ namespace FuzzyLogic
 
             data = dataFlowers.ReadData(path);
 
-            for (int i = 0; i < 3; i++)
+            for (int i = 0; i < 4; i++)
             {
                 data = normalize.DoNormalize(data, i, 1, 0);
             }

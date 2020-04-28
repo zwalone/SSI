@@ -1,0 +1,7 @@
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\obj\Debug\NeuralNetwork.csprojAssemblyReference.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\Dariusz\Desktop\Studia\Rok2\Semestr 4\Systemy_Sztucznej_Inteligencji\Irysy\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
